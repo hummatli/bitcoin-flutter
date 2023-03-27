@@ -20,7 +20,3 @@ We’re going to make a crypto currency price checking app. By the end of the mo
 - How to check the platform your app is being run on to customise the UI for that platform.
 - Revise previous concepts by completing the challenges.
 
-
->---
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
